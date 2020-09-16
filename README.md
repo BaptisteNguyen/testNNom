@@ -4,5 +4,5 @@ GTSRB folder contains the dataset files : load the files x_train_i.npy (and x_te
 
 NNom_cmsisnn folder contains a project done on STM32CubeIde which use NNom library with cmsis-nn kernel.
 
-This project receive by UART an image sent from a computer. The inference is done on microcontroller(STM32F401RE). Then the result is transmitted to the computer.
+In this project, a microcontroller(STM32F401RE) receives by UART an image sent from a computer. The inference is done on microcontroller. Then the result is transmitted to the computer.
 communication.py ensures the communication between the microcontroller and the computer.
