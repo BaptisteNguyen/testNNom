@@ -1,0 +1,11 @@
+nnom_tensor.c:22:8:tensor_size	24	static
+nnom_tensor.c:35:8:tensor_get_num_channel	16	static
+nnom_tensor.c:49:16:new_tensor	32	static
+nnom_tensor.c:81:6:delete_tensor	16	static
+nnom_tensor.c:89:16:tensor_set_attr_v	24	static
+nnom_tensor.c:107:16:tensor_set_attr	32	static
+nnom_tensor.c:133:16:tensor_cpy_attr	24	static
+nnom_tensor.c:158:6:tensor_hwc2chw_q7	40	static
+nnom_tensor.c:179:6:tensor_chw2hwc_q7	48	static
+nnom_tensor.c:206:6:hwc2chw_q7	40	static
+nnom_tensor.c:224:6:chw2hwc_q7	48	static

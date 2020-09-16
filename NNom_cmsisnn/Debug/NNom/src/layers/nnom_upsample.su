@@ -1,0 +1,4 @@
+nnom_upsample.c:22:15:upsample_s	32	static
+nnom_upsample.c:31:15:UpSample	32	static
+nnom_upsample.c:64:15:upsample_build	32	static
+nnom_upsample.c:84:15:upsample_run	64	static

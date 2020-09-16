@@ -1,0 +1,4 @@
+nnom_cropping.c:22:16:cropping_s	24	static
+nnom_cropping.c:31:15:Cropping	24	static
+nnom_cropping.c:45:15:cropping_build	32	static
+nnom_cropping.c:69:15:cropping_run	72	static

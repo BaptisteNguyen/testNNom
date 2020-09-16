@@ -1,0 +1,3 @@
+nnom_output.c:23:15:output_s	24	static
+nnom_output.c:36:15:Output	32	static
+nnom_output.c:49:15:output_run	32	static

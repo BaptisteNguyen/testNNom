@@ -1,0 +1,6 @@
+nnom_conv2d.c:29:15:conv2d_s	56	static
+nnom_conv2d.c:108:15:Conv2D	56	static
+nnom_conv2d.c:183:10:conv_output_length	32	static
+nnom_conv2d.c:196:15:conv2d_build	40	static
+nnom_conv2d.c:231:15:conv2d_free	24	static
+nnom_conv2d.c:244:15:conv2d_run	168	static
